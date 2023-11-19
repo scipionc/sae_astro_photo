@@ -1,0 +1,3 @@
+# SAE_astro_photo
+ 
+Nous avous laissés les tests des différents défis pour aider à comprendre comment nous nous y sommes pris. Dans les défis Basiques et Intermédiaires il y a un fichier operationnel.py qui comprend le défi de maière opérationnel et pour le défi avancé nous avon un fichier comparaison.py pour comparer les méthodes, un fichier Canny.py Roberts.py et Sobel.py pour les méthodes de Canny, Roberts et Sobel et le fichier interface qui comprends l'interface finale
